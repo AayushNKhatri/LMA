@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+}
+nav ul{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: space-around;
+
+}
